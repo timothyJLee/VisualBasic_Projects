@@ -1,0 +1,14 @@
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\bin\Debug\TIMOTHY LEE Final Project.exe.config
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\bin\Debug\TIMOTHY LEE Final Project.exe
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\bin\Debug\TIMOTHY LEE Final Project.pdb
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\bin\Debug\TIMOTHY LEE Final Project.xml
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\obj\Debug\WindowsApplication1.AddSample.resources
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\obj\Debug\WindowsApplication1.DisplayLogEntry.resources
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\obj\Debug\WindowsApplication1.EditLogFile.resources
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\obj\Debug\WindowsApplication1.SampleCatalog.resources
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\obj\Debug\WindowsApplication1.SampleDisplay.resources
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\obj\Debug\TIMOTHY LEE Final Project.vbproj.GenerateResource.Cache
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\obj\Debug\TIMOTHY LEE Final Project.exe
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\obj\Debug\TIMOTHY LEE Final Project.xml
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\obj\Debug\TIMOTHY LEE Final Project.pdb

@@ -1,0 +1,47 @@
+BeginSample
+Date:
+6/23/2012 2:46:34 PM
+Name:
+Koala
+Field:
+Biology
+Type:
+Mammal
+ImagePath:
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\Images\Koala.jpg
+Description:
+Vegetarian
+Mammal
+EndSample
+BeginSample
+Date:
+6/24/2012 3:59:10 PM
+Name:
+Human
+Field:
+Biology
+Type:
+Mammal
+ImagePath:
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\Images\Human.jpg
+Description:
+Bipedal
+Homo Sapien
+EndSample
+BeginSample
+Date:
+6/24/2012 4:00:54 PM
+Name:
+Frog
+Field:
+Biology
+Type:
+From
+ImagePath:
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\TIMOTHY LEE Final Project\TIMOTHY LEE Final Project\Images\Frog.jpg
+Description:
+Wanting to Display
+Proper Formatting of MultiLine
+Descriptions...
+Frog
+EndSample

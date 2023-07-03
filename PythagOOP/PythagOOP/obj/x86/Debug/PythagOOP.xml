@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PythagOOP
+</name>
+</assembly>
+<members>
+<member name="M:PythagOOP.PythagorasCalculator.Calculate(System.Decimal,System.Decimal,System.Decimal)">
+	<summary>
+ Calculates Side that is zero. Requires 2 numbers &gt; 0.
+ </summary>
+	<param name="A"></param>
+	<param name="B"></param>
+	<param name="C"></param>
+	<returns>Boolean - true if calculation successful</returns>
+	<remarks></remarks>
+</member><member name="P:PythagOOP.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PythagOOP.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PythagOOP.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

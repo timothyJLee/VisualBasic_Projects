@@ -1,0 +1,22 @@
+C:\Users\tlee5206\Desktop\PythagOOP\PythagOOP\bin\Debug\PythagOOP.exe
+C:\Users\tlee5206\Desktop\PythagOOP\PythagOOP\bin\Debug\PythagOOP.pdb
+C:\Users\tlee5206\Desktop\PythagOOP\PythagOOP\bin\Debug\PythagOOP.xml
+C:\Users\tlee5206\Desktop\PythagOOP\PythagOOP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tlee5206\Desktop\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.Resources.resources
+C:\Users\tlee5206\Desktop\PythagOOP\PythagOOP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tlee5206\Desktop\PythagOOP\PythagOOP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tlee5206\Desktop\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.exe
+C:\Users\tlee5206\Desktop\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.xml
+C:\Users\tlee5206\Desktop\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.pdb
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Notes\PythagOOP\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.exe
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Notes\PythagOOP\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.xml
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Notes\PythagOOP\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.pdb
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Notes\PythagOOP\PythagOOP\PythagOOP\bin\Debug\PythagOOP.exe
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Notes\PythagOOP\PythagOOP\PythagOOP\bin\Debug\PythagOOP.pdb
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Notes\PythagOOP\PythagOOP\PythagOOP\bin\Debug\PythagOOP.xml
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Notes\PythagOOP\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.Form1.resources
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Notes\PythagOOP\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.Resources.resources
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Notes\PythagOOP\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.vbproj.GenerateResource.Cache
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.exe
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.xml
+C:\Users\judy\Desktop\School\CompSci\Visual Basic\Projects\PythagOOP\PythagOOP\obj\x86\Debug\PythagOOP.pdb
